@@ -15,10 +15,7 @@ public class holow_rhombus {
             System.out.println();
         }
     }
-
-public static void main(String args[]){
-    rhombus(5);
-}
-
-
+    public static void main(String args[]){
+        rhombus(5);
+    }
 }
