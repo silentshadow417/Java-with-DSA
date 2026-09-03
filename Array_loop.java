@@ -8,5 +8,5 @@ public class Array_loop {
         for(int i = 0 ; i < num.length; i++) {
             System.out.println(num[i]);
         }
-    }
+    }// number print using loop + array
 }
