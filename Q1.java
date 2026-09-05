@@ -7,5 +7,6 @@ public class Q1 {
         int c = sc.nextInt();
         int avg = (a + b + c) / 3;
         System.out.println("Average of Three numbers: " + avg);
+        sc.close();
     }
 }
