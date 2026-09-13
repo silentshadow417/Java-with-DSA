@@ -20,5 +20,6 @@ public class Diagonal_sum {
             {1,2,3,4},
             {1,2,3,4}
         };
+        System.out.println(Sum(matrix));
     }
 }
