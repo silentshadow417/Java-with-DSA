@@ -9,7 +9,7 @@ public class Diagonal_sum {
                 else if(i+j == matrix.length-1){
                     sum+=matrix[i][j];
                 }
-            }
+            }// sum
         }
         return sum;
     }
